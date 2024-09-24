@@ -1,0 +1,1 @@
+# resumo-do-lab-Configurando-uma-inst-ncia-de-Banco-de-Dados-na-Azure-
